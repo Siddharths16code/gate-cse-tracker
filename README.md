@@ -143,6 +143,35 @@ Progress bar colors:
 - Yellow = 50-79%
 - Red    = below 50%
 
----
+
+## Output ScreenShots 
+
+1. 
+<img width="1054" height="708" alt="image" src="https://github.com/user-attachments/assets/a54fd1bb-6e99-46f8-a968-a1a120c5af42" />
+
+2.
+<img width="1054" height="708" alt="image" src="https://github.com/user-attachments/assets/e10f0c42-c930-489e-9ba3-907d8ddbbab2" />
+
+3.
+<img width="1054" height="1004" alt="image" src="https://github.com/user-attachments/assets/185eaaff-b90b-43a2-bd87-ba756ee9c40b" />
+
+4.
+<img width="1054" height="1004" alt="image" src="https://github.com/user-attachments/assets/7eb39b35-ba3b-4b39-a543-df5d73572e52" />
+
+
+5.
+<img width="1882" height="1324" alt="image" src="https://github.com/user-attachments/assets/355ae21f-174f-4100-a26e-d3d94a3d3b84" />
+
+6.
+<img width="1150" height="1510" alt="image" src="https://github.com/user-attachments/assets/0258cb6f-54b6-4b45-8320-97d4de407a5b" />
+
+7.
+<img width="1150" height="1066" alt="image" src="https://github.com/user-attachments/assets/f0e4cdda-b75a-41b3-9d7f-531be47acb59" />
+
+8.
+<img width="1150" height="932" alt="image" src="https://github.com/user-attachments/assets/34b49ad9-0348-4fe9-aa28-32f89e64deb1" />
+
+
+------
 
 Good luck for GATE 2027!
