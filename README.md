@@ -1,6 +1,6 @@
-# GATE CSE 2026 - Syllabus Tracker
+# GATE CSE 2027 - Syllabus Tracker
 
-A complete C++ console application to track your GATE CSE 2026 preparation.
+A complete C++ console application to track your GATE CSE 2027 preparation.
 
 ---
 
@@ -145,4 +145,4 @@ Progress bar colors:
 
 ---
 
-Good luck for GATE 2026!
+Good luck for GATE 2027!
