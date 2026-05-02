@@ -174,4 +174,44 @@ Progress bar colors:
 
 ------
 
-Good luck for GATE 2027!
+## Future Enhancements
+
+* 🌐 Web Version (React + Backend)
+* 🗄️ Database Integration
+* 📊 Advanced Analytics Dashboard
+* 📱 Mobile App Version
+* 🔒 Secure Data Encryption
+
+⸻
+
+## Learning Outcomes
+
+This project demonstrates:
+
+* Clean modular C++ architecture
+* Practical use of OOP
+* Real-world problem solving
+* File-based data persistence
+
+## Author
+
+Siddharth
+🎓 BTech CSE &amp; IIT Madras BS Data Science  Student
+🎯 GATE 2027 Aspirant
+
+⸻
+
+## Support
+
+If this project helps you:
+
+👉 Star ⭐ the repo
+👉 Share with GATE aspirants
+
+⸻
+
+📢 Quote
+
+##Consistency beats intensity — track smart, study smarter.
+
+##Good luck for GATE 2027!
