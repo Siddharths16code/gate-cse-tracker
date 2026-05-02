@@ -1,0 +1,6 @@
+*.exe
+*.out
+*.o
+*.log
+gate_tracker_data.txt
+.vscode/
